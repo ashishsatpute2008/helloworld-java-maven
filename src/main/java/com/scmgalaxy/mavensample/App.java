@@ -1,5 +1,4 @@
 package com.scmgalaxy.mavensample;
-
 /**
  * Hello world!
  *
